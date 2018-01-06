@@ -1,1 +1,1 @@
-# flex-sensor-controls-servo-motor-and-led
+This project uses flex sensor to control servo motor and led. The more flex sensor bends, the faster servo motor rotates and led blinks.
